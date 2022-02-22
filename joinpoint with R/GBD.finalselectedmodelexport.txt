@@ -1,0 +1,205 @@
+"location"	"Model"
+Afghanistan	2
+Albania	1
+Algeria	2
+American Samoa	2
+Andorra	2
+Angola	2
+Antigua and Barbuda	2
+Argentina	2
+Armenia	1
+Australia	1
+Austria	2
+Azerbaijan	2
+Bahamas	2
+Bahrain	2
+Bangladesh	2
+Barbados	1
+Belarus	1
+Belgium	2
+Belize	2
+Benin	2
+Bermuda	2
+Bhutan	2
+Bolivia (Plurinational State of)	2
+Bosnia and Herzegovina	2
+Botswana	2
+Brazil	2
+Brunei Darussalam	1
+Bulgaria	2
+Burkina Faso	2
+Burundi	2
+Cabo Verde	2
+Cambodia	2
+Cameroon	2
+Canada	2
+Central African Republic	2
+Chad	2
+Chile	2
+China	2
+Colombia	1
+Comoros	2
+Congo	2
+Cook Islands	2
+Costa Rica	1
+Croatia	1
+Cuba	1
+Cyprus	2
+Czechia	2
+Côte d'Ivoire	2
+Democratic People's Republic of Korea	2
+Democratic Republic of the Congo	2
+Denmark	2
+Djibouti	2
+Dominica	2
+Dominican Republic	1
+Ecuador	2
+Egypt	2
+El Salvador	2
+Equatorial Guinea	2
+Eritrea	2
+Estonia	2
+Eswatini	2
+Ethiopia	2
+Fiji	2
+Finland	2
+France	2
+Gabon	2
+Gambia	2
+Georgia	2
+Germany	1
+Ghana	2
+Greece	2
+Greenland	2
+Grenada	2
+Guam	2
+Guatemala	2
+Guinea	2
+Guinea-Bissau	2
+Guyana	2
+Haiti	2
+Honduras	2
+Hungary	2
+Iceland	2
+India	2
+Indonesia	2
+Iran (Islamic Republic of)	2
+Iraq	2
+Ireland	1
+Israel	1
+Italy	2
+Jamaica	2
+Japan	2
+Jordan	2
+Kazakhstan	2
+Kenya	2
+Kiribati	2
+Kuwait	2
+Kyrgyzstan	2
+Lao People's Democratic Republic	2
+Latvia	2
+Lebanon	2
+Lesotho	2
+Liberia	2
+Libya	0
+Lithuania	2
+Luxembourg	2
+Madagascar	2
+Malawi	2
+Malaysia	2
+Maldives	2
+Mali	2
+Malta	2
+Marshall Islands	2
+Mauritania	2
+Mauritius	1
+Mexico	2
+Micronesia (Federated States of)	2
+Monaco	2
+Mongolia	2
+Montenegro	1
+Morocco	2
+Mozambique	2
+Myanmar	2
+Namibia	2
+Nauru	2
+Nepal	2
+Netherlands	2
+New Zealand	1
+Nicaragua	1
+Niger	2
+Nigeria	2
+Niue	2
+North Macedonia	2
+Northern Mariana Islands	2
+Norway	1
+Oman	2
+Pakistan	2
+Palau	2
+Palestine	2
+Panama	2
+Papua New Guinea	2
+Paraguay	2
+Peru	0
+Philippines	2
+Poland	1
+Portugal	2
+Puerto Rico	2
+Qatar	2
+Republic of Korea	2
+Republic of Moldova	2
+Romania	2
+Russian Federation	1
+Rwanda	2
+Saint Kitts and Nevis	2
+Saint Lucia	2
+Saint Vincent and the Grenadines	2
+Samoa	2
+San Marino	1
+Sao Tome and Principe	2
+Saudi Arabia	2
+Senegal	2
+Serbia	1
+Seychelles	2
+Sierra Leone	2
+Singapore	2
+Slovakia	2
+Slovenia	2
+Solomon Islands	2
+Somalia	2
+South Africa	2
+South Sudan	2
+Spain	2
+Sri Lanka	2
+Sudan	2
+Suriname	2
+Sweden	2
+Switzerland	2
+Syrian Arab Republic	2
+Taiwan (Province of China)	2
+Tajikistan	2
+Thailand	2
+Timor-Leste	2
+Togo	2
+Tokelau	2
+Tonga	2
+Trinidad and Tobago	2
+Tunisia	2
+Turkey	2
+Turkmenistan	2
+Tuvalu	2
+Uganda	2
+Ukraine	2
+United Arab Emirates	2
+United Kingdom	2
+United Republic of Tanzania	2
+United States of America	1
+United States Virgin Islands	2
+Uruguay	2
+Uzbekistan	2
+Vanuatu	2
+Venezuela (Bolivarian Republic of)	2
+Viet Nam	2
+Yemen	2
+Zambia	2
+Zimbabwe	1
