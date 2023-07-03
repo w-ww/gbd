@@ -14,7 +14,7 @@ data_cleaned <- data_cleaned %>% filter(!is.na(location) & location != "")
 # Rank causes by val
 data_ranked <- data_cleaned %>%
   group_by(location) %>%
-  mutate(rank = rank(val))
+  mutate(rank = rank(-val))
 
 # Reorder location with Global and Asia at the leftmost positions
 data_ranked$location <- factor(data_ranked$location, levels = c("Global", "Asia", setdiff(unique(data_ranked$location), c("Global", "Asia"))))
@@ -32,27 +32,14 @@ data_ranked$cause <- factor(data_ranked$cause, levels = data_ranked %>% filter(l
 #                                            limits = c(1, 16))
 # Custom color scale
 custom_color_scale <- scale_fill_gradient(low = "red", high = "white",
-                                          breaks = c(1, 3, 6, 9, 12, 16),
-                                          limits = c(1, 16))
-# # Create the heatmap plot
-# heatmap_plot <- ggplot(data_ranked, aes(x = location, y = cause, fill = rank)) +
-#   geom_tile(color = "white") +
-#   geom_text(aes(label = rank), size = 1, color = "black") +
-#   custom_color_scale +
-#   theme(axis.text.x = element_text(angle = 90, face = "bold",hjust = 1, vjust = 0.9, size = 3),
-#         axis.text.y = element_text(face = "bold",size = 5),
-#         axis.title.x = element_blank(),
-#         axis.title.y = element_blank(),
-#         panel.spacing = unit(0, "lines"),
-#         panel.grid.major = element_blank(),
-#         panel.grid.minor = element_blank(),
-#         plot.margin = margin(5, 5, 5, 5, "pt"),
-#         panel.background = element_blank()) +
-#   labs(fill = "Rank")
+                                          breaks = c(1, 16),
+                                          limits = c(1, 16))                                         
+
+
 # Create the heatmap plot
 heatmap_plot <- ggplot(data_ranked, aes(x = location, y = cause, fill = rank)) +
   geom_tile(color = "white") +
-  geom_text(aes(label = rank), size = 1, color = "black") +
+  geom_text(aes(label = rank), size = 3, color = "black") +
   custom_color_scale +
   theme(axis.text.x = element_text(angle = 90, hjust = 0, vjust = 0.5, size = 7, face = "bold"),
         axis.text.y = element_text(size = 7, face = "bold"),

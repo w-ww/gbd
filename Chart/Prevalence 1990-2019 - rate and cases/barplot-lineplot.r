@@ -1,9 +1,10 @@
+# Load required libraries
+library(ggplot2)
+library(scales)
+
+# Read data
 rate_data <- read.csv("/Users/i045835/gbd/Chart/Prevalence 1990-2019 - rate and cases/rate.csv")
 number_data <- read.csv("/Users/i045835/gbd/Chart/Prevalence 1990-2019 - rate and cases/cases.csv")
-library(ggplot2)
-
-# Combine rate and number data
-# combined_data <- bind_rows(rate_data, number_data)
 
 # Create the combined plot
 combined_plot <- ggplot() +
@@ -38,7 +39,8 @@ combined_plot <- ggplot() +
   scale_y_continuous(
     name = "Number",
     sec.axis = sec_axis(~ . / 1000, name = "Rate"),
-    expand = c(0, 0)
+    expand = c(0, 0),
+    labels = comma_format()
   ) +
   scale_x_continuous(expand = c(0, 0), breaks = 1990:2019) +
   geom_segment(aes(x = 1989.5, xend = 2019.5, y = 0, yend = 0), color = "black") +

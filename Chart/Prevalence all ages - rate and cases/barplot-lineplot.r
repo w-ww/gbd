@@ -1,6 +1,10 @@
+# Load required libraries
+library(ggplot2)
+library(scales)
+
+# Read data
 rate_data <- read.csv("/Users/i045835/gbd/Chart/Prevalence all ages - rate and cases/Prevalence all ages - rate.csv")
 number_data <- read.csv("/Users/i045835/gbd/Chart/Prevalence all ages - rate and cases/Prevalence all ages - cases.csv")
-library(ggplot2)
 
 # Convert age column to factor with the correct order
 number_data$age <- factor(number_data$age, levels = c("<5", "5-9", "10-14", "15-19", "20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84",
@@ -8,7 +12,7 @@ number_data$age <- factor(number_data$age, levels = c("<5", "5-9", "10-14", "15-
 rate_data$age <- factor(rate_data$age, levels = c("<5", "5-9", "10-14", "15-19","20-24","25-29","30-34","35-39","40-44","45-49","50-54","55-59","60-64","65-69","70-74","75-79","80-84",
 "85-89","90-94","95+"))
 
-
+# Create the combined plot
 combined_plot <- ggplot() +
   geom_bar(
     data = number_data,
@@ -41,7 +45,8 @@ combined_plot <- ggplot() +
   scale_y_continuous(
     name = "Number",
     sec.axis = sec_axis(~ . / 1000, name = "Rate"),
-    expand = c(0, 0)
+    expand = c(0, 0),
+    labels = comma_format()
   ) +
   scale_x_discrete(expand = c(0, 0)) +
   geom_segment(aes(x = 0.5, xend = 5.5, y = 0, yend = 0), color = "black") +
@@ -60,4 +65,5 @@ combined_plot <- ggplot() +
          color = guide_legend(title = "Rate", order = 2)) +
   theme(legend.position = "top")
 
+# Print the combined plot
 print(combined_plot)
