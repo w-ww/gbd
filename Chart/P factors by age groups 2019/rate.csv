@@ -1,0 +1,321 @@
+﻿measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+Prevalence,Asia,Both,<5,Rheumatic heart disease,Heart failure,Rate,2019,1.2564 ,2.0399 ,0.6836 
+Prevalence,Asia,Both,<5,Ischemic heart disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,<5,Hypertensive heart disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,<5,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,<5,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,<5,G6PD deficiency,Heart failure,Rate,2019,0.0469 ,0.0715 ,0.0290 
+Prevalence,Asia,Both,<5,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.0164 ,0.0249 ,0.0102 
+Prevalence,Asia,Both,<5,Congenital heart anomalies,Heart failure,Rate,2019,24.7841 ,35.8019 ,16.6557 
+Prevalence,Asia,Both,<5,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.5307 ,0.8023 ,0.3301 
+Prevalence,Asia,Both,<5,Alcoholic cardiomyopathy,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,<5,Myocarditis,Heart failure,Rate,2019,1.7707 ,2.8033 ,1.0172 
+Prevalence,Asia,Both,<5,Other cardiomyopathy,Heart failure,Rate,2019,1.4836 ,2.3163 ,0.8680 
+Prevalence,Asia,Both,<5,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,<5,Chagas disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,<5,Endocarditis,Heart failure,Rate,2019,0.2879 ,0.4373 ,0.1802 
+Prevalence,Asia,Both,<5,Thalassemias,Heart failure,Rate,2019,1.4327 ,2.1801 ,0.8824 
+Prevalence,Asia,Both,10-14,Rheumatic heart disease,Heart failure,Rate,2019,2.0455 ,3.7201 ,0.9325 
+Prevalence,Asia,Both,10-14,Ischemic heart disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,10-14,Hypertensive heart disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,10-14,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,10-14,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,10-14,G6PD deficiency,Heart failure,Rate,2019,0.1146 ,0.1915 ,0.0556 
+Prevalence,Asia,Both,10-14,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.0447 ,0.0747 ,0.0217 
+Prevalence,Asia,Both,10-14,Congenital heart anomalies,Heart failure,Rate,2019,11.8754 ,21.8666 ,5.8790 
+Prevalence,Asia,Both,10-14,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.1928 ,0.3200 ,0.0957 
+Prevalence,Asia,Both,10-14,Alcoholic cardiomyopathy,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,10-14,Myocarditis,Heart failure,Rate,2019,1.3383 ,2.1930 ,0.6914 
+Prevalence,Asia,Both,10-14,Other cardiomyopathy,Heart failure,Rate,2019,1.6761 ,2.7130 ,0.8987 
+Prevalence,Asia,Both,10-14,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,10-14,Chagas disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,10-14,Endocarditis,Heart failure,Rate,2019,0.1592 ,0.2617 ,0.0802 
+Prevalence,Asia,Both,10-14,Thalassemias,Heart failure,Rate,2019,0.5625 ,0.9398 ,0.2754 
+Prevalence,Asia,Both,15-19,Rheumatic heart disease,Heart failure,Rate,2019,2.6715 ,4.8099 ,1.2230 
+Prevalence,Asia,Both,15-19,Ischemic heart disease,Heart failure,Rate,2019,0.2052 ,0.4155 ,0.0815 
+Prevalence,Asia,Both,15-19,Hypertensive heart disease,Heart failure,Rate,2019,0.1229 ,0.2380 ,0.0509 
+Prevalence,Asia,Both,15-19,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,0.0015 ,0.0046 ,0.0003 
+Prevalence,Asia,Both,15-19,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.0564 ,0.0946 ,0.0293 
+Prevalence,Asia,Both,15-19,G6PD deficiency,Heart failure,Rate,2019,0.1746 ,0.2963 ,0.0911 
+Prevalence,Asia,Both,15-19,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.0827 ,0.1412 ,0.0429 
+Prevalence,Asia,Both,15-19,Congenital heart anomalies,Heart failure,Rate,2019,7.6575 ,12.5759 ,4.2904 
+Prevalence,Asia,Both,15-19,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.1661 ,0.2760 ,0.0888 
+Prevalence,Asia,Both,15-19,Alcoholic cardiomyopathy,Heart failure,Rate,2019,0.2135 ,0.3486 ,0.1114 
+Prevalence,Asia,Both,15-19,Myocarditis,Heart failure,Rate,2019,1.6176 ,2.6886 ,0.8213 
+Prevalence,Asia,Both,15-19,Other cardiomyopathy,Heart failure,Rate,2019,2.0313 ,3.3257 ,1.0680 
+Prevalence,Asia,Both,15-19,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,0.0002 ,0.0007 ,0.0000 
+Prevalence,Asia,Both,15-19,Chagas disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,15-19,Endocarditis,Heart failure,Rate,2019,0.2776 ,0.4643 ,0.1441 
+Prevalence,Asia,Both,15-19,Thalassemias,Heart failure,Rate,2019,0.4190 ,0.7102 ,0.2185 
+Prevalence,Asia,Both,20-24,Rheumatic heart disease,Heart failure,Rate,2019,4.1308 ,6.5889 ,2.2511 
+Prevalence,Asia,Both,20-24,Ischemic heart disease,Heart failure,Rate,2019,2.0912 ,3.6530 ,1.0146 
+Prevalence,Asia,Both,20-24,Hypertensive heart disease,Heart failure,Rate,2019,1.3944 ,2.4615 ,0.6840 
+Prevalence,Asia,Both,20-24,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,0.0155 ,0.0455 ,0.0034 
+Prevalence,Asia,Both,20-24,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.0576 ,0.0951 ,0.0303 
+Prevalence,Asia,Both,20-24,G6PD deficiency,Heart failure,Rate,2019,0.1704 ,0.2833 ,0.0897 
+Prevalence,Asia,Both,20-24,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.0910 ,0.1513 ,0.0475 
+Prevalence,Asia,Both,20-24,Congenital heart anomalies,Heart failure,Rate,2019,5.5825 ,9.7022 ,2.9776 
+Prevalence,Asia,Both,20-24,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.1703 ,0.2765 ,0.0919 
+Prevalence,Asia,Both,20-24,Alcoholic cardiomyopathy,Heart failure,Rate,2019,0.2916 ,0.4413 ,0.1674 
+Prevalence,Asia,Both,20-24,Myocarditis,Heart failure,Rate,2019,1.9746 ,3.0367 ,1.1276 
+Prevalence,Asia,Both,20-24,Other cardiomyopathy,Heart failure,Rate,2019,2.7166 ,4.0456 ,1.5868 
+Prevalence,Asia,Both,20-24,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,0.0020 ,0.0063 ,0.0004 
+Prevalence,Asia,Both,20-24,Chagas disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,20-24,Endocarditis,Heart failure,Rate,2019,0.3783 ,0.6130 ,0.2027 
+Prevalence,Asia,Both,20-24,Thalassemias,Heart failure,Rate,2019,0.2928 ,0.4860 ,0.1533 
+Prevalence,Asia,Both,25-29,Rheumatic heart disease,Heart failure,Rate,2019,6.4057 ,10.8044 ,2.7918 
+Prevalence,Asia,Both,25-29,Ischemic heart disease,Heart failure,Rate,2019,7.5589 ,13.4321 ,3.5472 
+Prevalence,Asia,Both,25-29,Hypertensive heart disease,Heart failure,Rate,2019,5.3887 ,9.4916 ,2.4714 
+Prevalence,Asia,Both,25-29,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,0.0617 ,0.1731 ,0.0157 
+Prevalence,Asia,Both,25-29,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.0701 ,0.1129 ,0.0387 
+Prevalence,Asia,Both,25-29,G6PD deficiency,Heart failure,Rate,2019,0.1549 ,0.2500 ,0.0850 
+Prevalence,Asia,Both,25-29,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.0810 ,0.1314 ,0.0445 
+Prevalence,Asia,Both,25-29,Congenital heart anomalies,Heart failure,Rate,2019,4.9339 ,8.4378 ,2.7564 
+Prevalence,Asia,Both,25-29,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.1889 ,0.3028 ,0.1066 
+Prevalence,Asia,Both,25-29,Alcoholic cardiomyopathy,Heart failure,Rate,2019,0.4086 ,0.6678 ,0.2158 
+Prevalence,Asia,Both,25-29,Myocarditis,Heart failure,Rate,2019,2.1137 ,3.4687 ,1.1206 
+Prevalence,Asia,Both,25-29,Other cardiomyopathy,Heart failure,Rate,2019,3.1880 ,5.1455 ,1.7398 
+Prevalence,Asia,Both,25-29,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,0.0083 ,0.0244 ,0.0018 
+Prevalence,Asia,Both,25-29,Chagas disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,25-29,Endocarditis,Heart failure,Rate,2019,0.4686 ,0.7558 ,0.2581 
+Prevalence,Asia,Both,25-29,Thalassemias,Heart failure,Rate,2019,0.2094 ,0.3416 ,0.1152 
+Prevalence,Asia,Both,30-34,Rheumatic heart disease,Heart failure,Rate,2019,9.8316 ,16.2669 ,4.9895 
+Prevalence,Asia,Both,30-34,Ischemic heart disease,Heart failure,Rate,2019,14.6230 ,25.4054 ,7.5187 
+Prevalence,Asia,Both,30-34,Hypertensive heart disease,Heart failure,Rate,2019,11.7031 ,19.9371 ,6.1315 
+Prevalence,Asia,Both,30-34,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,0.1769 ,0.4706 ,0.0506 
+Prevalence,Asia,Both,30-34,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.0718 ,0.1212 ,0.0354 
+Prevalence,Asia,Both,30-34,G6PD deficiency,Heart failure,Rate,2019,0.1614 ,0.2727 ,0.0815 
+Prevalence,Asia,Both,30-34,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.0931 ,0.1569 ,0.0461 
+Prevalence,Asia,Both,30-34,Congenital heart anomalies,Heart failure,Rate,2019,3.9591 ,7.3589 ,1.9982 
+Prevalence,Asia,Both,30-34,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.2553 ,0.4247 ,0.1320 
+Prevalence,Asia,Both,30-34,Alcoholic cardiomyopathy,Heart failure,Rate,2019,0.6651 ,1.1539 ,0.3281 
+Prevalence,Asia,Both,30-34,Myocarditis,Heart failure,Rate,2019,2.0341 ,3.5638 ,0.9873 
+Prevalence,Asia,Both,30-34,Other cardiomyopathy,Heart failure,Rate,2019,3.7462 ,6.4147 ,1.8898 
+Prevalence,Asia,Both,30-34,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,0.0251 ,0.0693 ,0.0061 
+Prevalence,Asia,Both,30-34,Chagas disease,Heart failure,Rate,2019,0.0019 ,0.0029 ,0.0011 
+Prevalence,Asia,Both,30-34,Endocarditis,Heart failure,Rate,2019,0.4483 ,0.7367 ,0.2395 
+Prevalence,Asia,Both,30-34,Thalassemias,Heart failure,Rate,2019,0.1865 ,0.3238 ,0.0880 
+Prevalence,Asia,Both,35-39,Rheumatic heart disease,Heart failure,Rate,2019,16.2985 ,26.5999 ,8.6804 
+Prevalence,Asia,Both,35-39,Ischemic heart disease,Heart failure,Rate,2019,23.6191 ,42.9790 ,12.1287 
+Prevalence,Asia,Both,35-39,Hypertensive heart disease,Heart failure,Rate,2019,22.6207 ,40.4115 ,11.4961 
+Prevalence,Asia,Both,35-39,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,0.4426 ,1.0406 ,0.1413 
+Prevalence,Asia,Both,35-39,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.0750 ,0.1179 ,0.0426 
+Prevalence,Asia,Both,35-39,G6PD deficiency,Heart failure,Rate,2019,0.1133 ,0.1817 ,0.0633 
+Prevalence,Asia,Both,35-39,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.0824 ,0.1295 ,0.0470 
+Prevalence,Asia,Both,35-39,Congenital heart anomalies,Heart failure,Rate,2019,2.7189 ,4.5682 ,1.5308 
+Prevalence,Asia,Both,35-39,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.2698 ,0.4136 ,0.1567 
+Prevalence,Asia,Both,35-39,Alcoholic cardiomyopathy,Heart failure,Rate,2019,0.9165 ,1.4479 ,0.5229 
+Prevalence,Asia,Both,35-39,Myocarditis,Heart failure,Rate,2019,1.8944 ,3.0163 ,1.0780 
+Prevalence,Asia,Both,35-39,Other cardiomyopathy,Heart failure,Rate,2019,4.3614 ,6.8970 ,2.5134 
+Prevalence,Asia,Both,35-39,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,0.0636 ,0.1617 ,0.0177 
+Prevalence,Asia,Both,35-39,Chagas disease,Heart failure,Rate,2019,0.0033 ,0.0049 ,0.0020 
+Prevalence,Asia,Both,35-39,Endocarditis,Heart failure,Rate,2019,0.4148 ,0.6380 ,0.2418 
+Prevalence,Asia,Both,35-39,Thalassemias,Heart failure,Rate,2019,0.1423 ,0.2306 ,0.0779 
+Prevalence,Asia,Both,40-44,Rheumatic heart disease,Heart failure,Rate,2019,28.9921 ,48.7262 ,14.9266 
+Prevalence,Asia,Both,40-44,Ischemic heart disease,Heart failure,Rate,2019,46.9598 ,87.0559 ,23.1781 
+Prevalence,Asia,Both,40-44,Hypertensive heart disease,Heart failure,Rate,2019,52.2233 ,90.8034 ,27.7379 
+Prevalence,Asia,Both,40-44,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,1.0276 ,2.2042 ,0.3706 
+Prevalence,Asia,Both,40-44,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.0288 ,0.0506 ,0.0163 
+Prevalence,Asia,Both,40-44,G6PD deficiency,Heart failure,Rate,2019,0.0937 ,0.1619 ,0.0521 
+Prevalence,Asia,Both,40-44,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.0878 ,0.1516 ,0.0508 
+Prevalence,Asia,Both,40-44,Congenital heart anomalies,Heart failure,Rate,2019,0.3952 ,0.6739 ,0.2199 
+Prevalence,Asia,Both,40-44,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.3283 ,0.5526 ,0.1927 
+Prevalence,Asia,Both,40-44,Alcoholic cardiomyopathy,Heart failure,Rate,2019,1.4146 ,2.4897 ,0.7719 
+Prevalence,Asia,Both,40-44,Myocarditis,Heart failure,Rate,2019,2.3146 ,4.1907 ,1.2192 
+Prevalence,Asia,Both,40-44,Other cardiomyopathy,Heart failure,Rate,2019,5.9049 ,10.3776 ,3.2515 
+Prevalence,Asia,Both,40-44,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,0.1588 ,0.3714 ,0.0502 
+Prevalence,Asia,Both,40-44,Chagas disease,Heart failure,Rate,2019,0.0046 ,0.0069 ,0.0028 
+Prevalence,Asia,Both,40-44,Endocarditis,Heart failure,Rate,2019,0.3114 ,0.5129 ,0.1863 
+Prevalence,Asia,Both,40-44,Thalassemias,Heart failure,Rate,2019,0.1353 ,0.2405 ,0.0740 
+Prevalence,Asia,Both,45-49,Rheumatic heart disease,Heart failure,Rate,2019,51.7890 ,78.8282 ,30.4050 
+Prevalence,Asia,Both,45-49,Ischemic heart disease,Heart failure,Rate,2019,110.8206 ,189.2775 ,59.6286 
+Prevalence,Asia,Both,45-49,Hypertensive heart disease,Heart failure,Rate,2019,136.5161 ,208.6449 ,78.7926 
+Prevalence,Asia,Both,45-49,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,2.4499 ,4.8351 ,0.9646 
+Prevalence,Asia,Both,45-49,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.1056 ,0.1764 ,0.0607 
+Prevalence,Asia,Both,45-49,G6PD deficiency,Heart failure,Rate,2019,0.1618 ,0.2597 ,0.0965 
+Prevalence,Asia,Both,45-49,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.1611 ,0.2558 ,0.0969 
+Prevalence,Asia,Both,45-49,Congenital heart anomalies,Heart failure,Rate,2019,0.8582 ,1.3939 ,0.4825 
+Prevalence,Asia,Both,45-49,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.8732 ,1.3530 ,0.5456 
+Prevalence,Asia,Both,45-49,Alcoholic cardiomyopathy,Heart failure,Rate,2019,3.2748 ,5.1343 ,1.9449 
+Prevalence,Asia,Both,45-49,Myocarditis,Heart failure,Rate,2019,4.1006 ,6.5756 ,2.3703 
+Prevalence,Asia,Both,45-49,Other cardiomyopathy,Heart failure,Rate,2019,11.8636 ,18.4893 ,7.1632 
+Prevalence,Asia,Both,45-49,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,0.4374 ,0.9202 ,0.1675 
+Prevalence,Asia,Both,45-49,Chagas disease,Heart failure,Rate,2019,0.0051 ,0.0077 ,0.0032 
+Prevalence,Asia,Both,45-49,Endocarditis,Heart failure,Rate,2019,0.7080 ,1.0787 ,0.4649 
+Prevalence,Asia,Both,45-49,Thalassemias,Heart failure,Rate,2019,0.2258 ,0.3803 ,0.1274 
+Prevalence,Asia,Both,50-54,Rheumatic heart disease,Heart failure,Rate,2019,69.7407 ,115.1418 ,37.4397 
+Prevalence,Asia,Both,50-54,Ischemic heart disease,Heart failure,Rate,2019,205.5608 ,347.4848 ,113.6245 
+Prevalence,Asia,Both,50-54,Hypertensive heart disease,Heart failure,Rate,2019,250.4713 ,391.7038 ,143.0077 
+Prevalence,Asia,Both,50-54,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,5.7155 ,10.6863 ,2.4832 
+Prevalence,Asia,Both,50-54,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.3947 ,0.6306 ,0.2238 
+Prevalence,Asia,Both,50-54,G6PD deficiency,Heart failure,Rate,2019,0.2119 ,0.3296 ,0.1243 
+Prevalence,Asia,Both,50-54,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.2711 ,0.4149 ,0.1616 
+Prevalence,Asia,Both,50-54,Congenital heart anomalies,Heart failure,Rate,2019,1.7368 ,2.9312 ,1.0018 
+Prevalence,Asia,Both,50-54,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.8863 ,1.3427 ,0.5429 
+Prevalence,Asia,Both,50-54,Alcoholic cardiomyopathy,Heart failure,Rate,2019,4.9923 ,8.0828 ,3.0200 
+Prevalence,Asia,Both,50-54,Myocarditis,Heart failure,Rate,2019,6.2342 ,10.2441 ,3.6284 
+Prevalence,Asia,Both,50-54,Other cardiomyopathy,Heart failure,Rate,2019,20.1782 ,32.4025 ,12.0874 
+Prevalence,Asia,Both,50-54,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,1.1049 ,2.1392 ,0.4655 
+Prevalence,Asia,Both,50-54,Chagas disease,Heart failure,Rate,2019,0.0061 ,0.0089 ,0.0038 
+Prevalence,Asia,Both,50-54,Endocarditis,Heart failure,Rate,2019,1.3884 ,2.0433 ,0.8799 
+Prevalence,Asia,Both,50-54,Thalassemias,Heart failure,Rate,2019,0.2351 ,0.3737 ,0.1315 
+Prevalence,Asia,Both,55-59,Rheumatic heart disease,Heart failure,Rate,2019,69.9843 ,117.5791 ,40.1442 
+Prevalence,Asia,Both,55-59,Ischemic heart disease,Heart failure,Rate,2019,315.6084 ,546.3795 ,151.8424 
+Prevalence,Asia,Both,55-59,Hypertensive heart disease,Heart failure,Rate,2019,326.4138 ,558.1903 ,171.6472 
+Prevalence,Asia,Both,55-59,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,14.0169 ,23.8893 ,6.6011 
+Prevalence,Asia,Both,55-59,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.7748 ,1.2515 ,0.4539 
+Prevalence,Asia,Both,55-59,G6PD deficiency,Heart failure,Rate,2019,0.2177 ,0.3467 ,0.1287 
+Prevalence,Asia,Both,55-59,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.4048 ,0.6407 ,0.2435 
+Prevalence,Asia,Both,55-59,Congenital heart anomalies,Heart failure,Rate,2019,3.8967 ,6.3247 ,2.2832 
+Prevalence,Asia,Both,55-59,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,1.2748 ,1.9592 ,0.7902 
+Prevalence,Asia,Both,55-59,Alcoholic cardiomyopathy,Heart failure,Rate,2019,6.3343 ,10.1391 ,3.6984 
+Prevalence,Asia,Both,55-59,Myocarditis,Heart failure,Rate,2019,8.5810 ,13.9084 ,4.7882 
+Prevalence,Asia,Both,55-59,Other cardiomyopathy,Heart failure,Rate,2019,31.2310 ,49.6521 ,18.1268 
+Prevalence,Asia,Both,55-59,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,2.6559 ,4.7011 ,1.2536 
+Prevalence,Asia,Both,55-59,Chagas disease,Heart failure,Rate,2019,0.0075 ,0.0109 ,0.0048 
+Prevalence,Asia,Both,55-59,Endocarditis,Heart failure,Rate,2019,2.5200 ,3.8200 ,1.5672 
+Prevalence,Asia,Both,55-59,Thalassemias,Heart failure,Rate,2019,0.1374 ,0.2254 ,0.0787 
+Prevalence,Asia,Both,5-9,Rheumatic heart disease,Heart failure,Rate,2019,2.3855 ,4.2337 ,1.1868 
+Prevalence,Asia,Both,5-9,Ischemic heart disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,5-9,Hypertensive heart disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,5-9,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,5-9,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,5-9,G6PD deficiency,Heart failure,Rate,2019,0.1056 ,0.1751 ,0.0562 
+Prevalence,Asia,Both,5-9,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.0339 ,0.0564 ,0.0180 
+Prevalence,Asia,Both,5-9,Congenital heart anomalies,Heart failure,Rate,2019,19.9084 ,33.4598 ,10.6907 
+Prevalence,Asia,Both,5-9,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,0.3941 ,0.6549 ,0.2082 
+Prevalence,Asia,Both,5-9,Alcoholic cardiomyopathy,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,5-9,Myocarditis,Heart failure,Rate,2019,1.9467 ,3.2001 ,1.0203 
+Prevalence,Asia,Both,5-9,Other cardiomyopathy,Heart failure,Rate,2019,1.6110 ,2.6500 ,0.8588 
+Prevalence,Asia,Both,5-9,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,5-9,Chagas disease,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,5-9,Endocarditis,Heart failure,Rate,2019,0.2261 ,0.3707 ,0.1212 
+Prevalence,Asia,Both,5-9,Thalassemias,Heart failure,Rate,2019,1.3209 ,2.2238 ,0.6969 
+Prevalence,Asia,Both,60-64,Rheumatic heart disease,Heart failure,Rate,2019,93.8294 ,158.2502 ,51.2701 
+Prevalence,Asia,Both,60-64,Ischemic heart disease,Heart failure,Rate,2019,530.4318 ,880.6653 ,273.7870 
+Prevalence,Asia,Both,60-64,Hypertensive heart disease,Heart failure,Rate,2019,534.9031 ,870.3534 ,294.4205 
+Prevalence,Asia,Both,60-64,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,30.9651 ,50.3843 ,15.6421 
+Prevalence,Asia,Both,60-64,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.5167 ,0.8153 ,0.3150 
+Prevalence,Asia,Both,60-64,G6PD deficiency,Heart failure,Rate,2019,0.3051 ,0.4896 ,0.1829 
+Prevalence,Asia,Both,60-64,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,0.9034 ,1.4500 ,0.5398 
+Prevalence,Asia,Both,60-64,Congenital heart anomalies,Heart failure,Rate,2019,4.3628 ,6.7633 ,2.5651 
+Prevalence,Asia,Both,60-64,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,2.5010 ,3.8864 ,1.5494 
+Prevalence,Asia,Both,60-64,Alcoholic cardiomyopathy,Heart failure,Rate,2019,7.4793 ,12.0397 ,4.2386 
+Prevalence,Asia,Both,60-64,Myocarditis,Heart failure,Rate,2019,12.0298 ,19.8575 ,6.5953 
+Prevalence,Asia,Both,60-64,Other cardiomyopathy,Heart failure,Rate,2019,44.2007 ,70.9509 ,25.0433 
+Prevalence,Asia,Both,60-64,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,6.0218 ,10.2226 ,3.0345 
+Prevalence,Asia,Both,60-64,Chagas disease,Heart failure,Rate,2019,0.0090 ,0.0131 ,0.0058 
+Prevalence,Asia,Both,60-64,Endocarditis,Heart failure,Rate,2019,5.1011 ,7.6075 ,3.3143 
+Prevalence,Asia,Both,60-64,Thalassemias,Heart failure,Rate,2019,0.0928 ,0.1566 ,0.0514 
+Prevalence,Asia,Both,65-69,Rheumatic heart disease,Heart failure,Rate,2019,172.2178 ,246.3585 ,105.5177 
+Prevalence,Asia,Both,65-69,Ischemic heart disease,Heart failure,Rate,2019,1044.8395 ,1644.1289 ,596.9555 
+Prevalence,Asia,Both,65-69,Hypertensive heart disease,Heart failure,Rate,2019,1225.6753 ,1963.7787 ,742.9049 
+Prevalence,Asia,Both,65-69,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,58.4576 ,90.7144 ,32.2576 
+Prevalence,Asia,Both,65-69,Other non-rheumatic valve diseases,Heart failure,Rate,2019,0.6327 ,0.9481 ,0.4190 
+Prevalence,Asia,Both,65-69,G6PD deficiency,Heart failure,Rate,2019,0.4148 ,0.6345 ,0.2717 
+Prevalence,Asia,Both,65-69,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,1.9416 ,2.9460 ,1.2661 
+Prevalence,Asia,Both,65-69,Congenital heart anomalies,Heart failure,Rate,2019,2.0798 ,3.1788 ,1.3323 
+Prevalence,Asia,Both,65-69,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,4.8815 ,7.1494 ,3.3335 
+Prevalence,Asia,Both,65-69,Alcoholic cardiomyopathy,Heart failure,Rate,2019,9.0494 ,14.5157 ,5.5719 
+Prevalence,Asia,Both,65-69,Myocarditis,Heart failure,Rate,2019,17.1841 ,28.6024 ,9.8637 
+Prevalence,Asia,Both,65-69,Other cardiomyopathy,Heart failure,Rate,2019,59.6047 ,95.7161 ,36.2771 
+Prevalence,Asia,Both,65-69,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,13.1616 ,21.5774 ,7.0982 
+Prevalence,Asia,Both,65-69,Chagas disease,Heart failure,Rate,2019,0.0092 ,0.0132 ,0.0058 
+Prevalence,Asia,Both,65-69,Endocarditis,Heart failure,Rate,2019,11.2820 ,15.9250 ,7.9245 
+Prevalence,Asia,Both,65-69,Thalassemias,Heart failure,Rate,2019,0.0478 ,0.0754 ,0.0289 
+Prevalence,Asia,Both,70-74,Rheumatic heart disease,Heart failure,Rate,2019,190.2265 ,244.6417 ,129.4083 
+Prevalence,Asia,Both,70-74,Ischemic heart disease,Heart failure,Rate,2019,1626.2580 ,2613.1544 ,879.0825 
+Prevalence,Asia,Both,70-74,Hypertensive heart disease,Heart failure,Rate,2019,2009.5943 ,3142.0024 ,1169.8674 
+Prevalence,Asia,Both,70-74,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,95.8363 ,148.3322 ,56.4300 
+Prevalence,Asia,Both,70-74,Other non-rheumatic valve diseases,Heart failure,Rate,2019,2.5387 ,4.2059 ,1.4511 
+Prevalence,Asia,Both,70-74,G6PD deficiency,Heart failure,Rate,2019,0.4712 ,0.7548 ,0.2880 
+Prevalence,Asia,Both,70-74,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,3.8444 ,6.1583 ,2.3543 
+Prevalence,Asia,Both,70-74,Congenital heart anomalies,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,70-74,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,7.0817 ,11.0406 ,4.5508 
+Prevalence,Asia,Both,70-74,Alcoholic cardiomyopathy,Heart failure,Rate,2019,8.8962 ,15.7126 ,5.0105 
+Prevalence,Asia,Both,70-74,Myocarditis,Heart failure,Rate,2019,21.2930 ,39.6081 ,11.2423 
+Prevalence,Asia,Both,70-74,Other cardiomyopathy,Heart failure,Rate,2019,76.7419 ,134.1481 ,42.3999 
+Prevalence,Asia,Both,70-74,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,28.0917 ,44.8288 ,15.6268 
+Prevalence,Asia,Both,70-74,Chagas disease,Heart failure,Rate,2019,0.0122 ,0.0176 ,0.0080 
+Prevalence,Asia,Both,70-74,Endocarditis,Heart failure,Rate,2019,16.0118 ,24.2243 ,10.7311 
+Prevalence,Asia,Both,70-74,Thalassemias,Heart failure,Rate,2019,0.0151 ,0.0253 ,0.0083 
+Prevalence,Asia,Both,75-79,Rheumatic heart disease,Heart failure,Rate,2019,177.0297 ,223.3068 ,133.6402 
+Prevalence,Asia,Both,75-79,Ischemic heart disease,Heart failure,Rate,2019,2217.4252 ,3595.6452 ,1220.7279 
+Prevalence,Asia,Both,75-79,Hypertensive heart disease,Heart failure,Rate,2019,2625.2349 ,4347.1182 ,1437.3446 
+Prevalence,Asia,Both,75-79,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,151.3619 ,234.4822 ,95.1780 
+Prevalence,Asia,Both,75-79,Other non-rheumatic valve diseases,Heart failure,Rate,2019,5.5543 ,9.0503 ,3.2297 
+Prevalence,Asia,Both,75-79,G6PD deficiency,Heart failure,Rate,2019,0.3351 ,0.5222 ,0.1987 
+Prevalence,Asia,Both,75-79,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,4.7929 ,7.5446 ,2.8779 
+Prevalence,Asia,Both,75-79,Congenital heart anomalies,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,75-79,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,8.7358 ,13.4894 ,5.3894 
+Prevalence,Asia,Both,75-79,Alcoholic cardiomyopathy,Heart failure,Rate,2019,9.1714 ,14.4467 ,5.3917 
+Prevalence,Asia,Both,75-79,Myocarditis,Heart failure,Rate,2019,28.4180 ,46.8702 ,15.8192 
+Prevalence,Asia,Both,75-79,Other cardiomyopathy,Heart failure,Rate,2019,113.6346 ,182.1161 ,65.4588 
+Prevalence,Asia,Both,75-79,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,53.5702 ,85.5801 ,31.7473 
+Prevalence,Asia,Both,75-79,Chagas disease,Heart failure,Rate,2019,0.0149 ,0.0209 ,0.0100 
+Prevalence,Asia,Both,75-79,Endocarditis,Heart failure,Rate,2019,22.4163 ,34.2781 ,14.0605 
+Prevalence,Asia,Both,75-79,Thalassemias,Heart failure,Rate,2019,0.0031 ,0.0051 ,0.0018 
+Prevalence,Asia,Both,80-84,Rheumatic heart disease,Heart failure,Rate,2019,168.5023 ,215.1289 ,122.9055 
+Prevalence,Asia,Both,80-84,Ischemic heart disease,Heart failure,Rate,2019,3157.3123 ,4917.1327 ,1830.0067 
+Prevalence,Asia,Both,80-84,Hypertensive heart disease,Heart failure,Rate,2019,3505.3604 ,5882.5978 ,1825.0127 
+Prevalence,Asia,Both,80-84,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,234.8042 ,362.0245 ,149.6623 
+Prevalence,Asia,Both,80-84,Other non-rheumatic valve diseases,Heart failure,Rate,2019,8.9971 ,14.6276 ,5.0187 
+Prevalence,Asia,Both,80-84,G6PD deficiency,Heart failure,Rate,2019,0.2013 ,0.3100 ,0.1236 
+Prevalence,Asia,Both,80-84,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,5.8348 ,9.0488 ,3.6055 
+Prevalence,Asia,Both,80-84,Congenital heart anomalies,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,80-84,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,11.3096 ,17.1099 ,7.1432 
+Prevalence,Asia,Both,80-84,Alcoholic cardiomyopathy,Heart failure,Rate,2019,6.3878 ,9.9047 ,3.8783 
+Prevalence,Asia,Both,80-84,Myocarditis,Heart failure,Rate,2019,45.3085 ,72.8936 ,26.4251 
+Prevalence,Asia,Both,80-84,Other cardiomyopathy,Heart failure,Rate,2019,165.4684 ,257.9636 ,98.9004 
+Prevalence,Asia,Both,80-84,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,91.6094 ,145.6565 ,55.0704 
+Prevalence,Asia,Both,80-84,Chagas disease,Heart failure,Rate,2019,0.0173 ,0.0250 ,0.0108 
+Prevalence,Asia,Both,80-84,Endocarditis,Heart failure,Rate,2019,38.5280 ,57.1244 ,25.1560 
+Prevalence,Asia,Both,80-84,Thalassemias,Heart failure,Rate,2019,0.0005 ,0.0008 ,0.0003 
+Prevalence,Asia,Both,85-89,Rheumatic heart disease,Heart failure,Rate,2019,167.1167 ,210.6508 ,129.2556 
+Prevalence,Asia,Both,85-89,Ischemic heart disease,Heart failure,Rate,2019,5056.4851 ,8070.6745 ,2906.7710 
+Prevalence,Asia,Both,85-89,Hypertensive heart disease,Heart failure,Rate,2019,5083.9995 ,7920.4710 ,2973.2447 
+Prevalence,Asia,Both,85-89,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,369.2300 ,561.6090 ,235.8614 
+Prevalence,Asia,Both,85-89,Other non-rheumatic valve diseases,Heart failure,Rate,2019,9.6068 ,15.2935 ,5.6160 
+Prevalence,Asia,Both,85-89,G6PD deficiency,Heart failure,Rate,2019,0.2238 ,0.3377 ,0.1422 
+Prevalence,Asia,Both,85-89,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,13.5900 ,20.6003 ,8.5828 
+Prevalence,Asia,Both,85-89,Congenital heart anomalies,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,85-89,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,18.2999 ,27.4929 ,11.6964 
+Prevalence,Asia,Both,85-89,Alcoholic cardiomyopathy,Heart failure,Rate,2019,6.1819 ,9.5577 ,3.7991 
+Prevalence,Asia,Both,85-89,Myocarditis,Heart failure,Rate,2019,78.1260 ,123.3065 ,47.0086 
+Prevalence,Asia,Both,85-89,Other cardiomyopathy,Heart failure,Rate,2019,286.9478 ,427.2517 ,175.4946 
+Prevalence,Asia,Both,85-89,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,162.4434 ,255.2412 ,94.2805 
+Prevalence,Asia,Both,85-89,Chagas disease,Heart failure,Rate,2019,0.0212 ,0.0316 ,0.0126 
+Prevalence,Asia,Both,85-89,Endocarditis,Heart failure,Rate,2019,93.1349 ,138.4022 ,61.5209 
+Prevalence,Asia,Both,85-89,Thalassemias,Heart failure,Rate,2019,0.0002 ,0.0002 ,0.0001 
+Prevalence,Asia,Both,90-94,Rheumatic heart disease,Heart failure,Rate,2019,148.0353 ,185.7314 ,116.0059 
+Prevalence,Asia,Both,90-94,Ischemic heart disease,Heart failure,Rate,2019,7550.8682 ,12145.0516 ,4311.4256 
+Prevalence,Asia,Both,90-94,Hypertensive heart disease,Heart failure,Rate,2019,6448.3749 ,10455.9771 ,3504.6943 
+Prevalence,Asia,Both,90-94,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,580.4374 ,873.2716 ,368.5136 
+Prevalence,Asia,Both,90-94,Other non-rheumatic valve diseases,Heart failure,Rate,2019,8.7269 ,14.6330 ,4.8284 
+Prevalence,Asia,Both,90-94,G6PD deficiency,Heart failure,Rate,2019,0.2030 ,0.3224 ,0.1228 
+Prevalence,Asia,Both,90-94,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,28.6813 ,44.9375 ,17.3952 
+Prevalence,Asia,Both,90-94,Congenital heart anomalies,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,90-94,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,29.5181 ,46.1715 ,17.9529 
+Prevalence,Asia,Both,90-94,Alcoholic cardiomyopathy,Heart failure,Rate,2019,9.4162 ,14.8604 ,5.3848 
+Prevalence,Asia,Both,90-94,Myocarditis,Heart failure,Rate,2019,126.3792 ,204.1070 ,71.1401 
+Prevalence,Asia,Both,90-94,Other cardiomyopathy,Heart failure,Rate,2019,509.6194 ,789.5070 ,293.3090 
+Prevalence,Asia,Both,90-94,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,271.1523 ,424.5504 ,155.5496 
+Prevalence,Asia,Both,90-94,Chagas disease,Heart failure,Rate,2019,0.0157 ,0.0273 ,0.0083 
+Prevalence,Asia,Both,90-94,Endocarditis,Heart failure,Rate,2019,227.1880 ,350.2035 ,141.8870 
+Prevalence,Asia,Both,90-94,Thalassemias,Heart failure,Rate,2019,0.0000 ,0.0001 ,0.0000 
+Prevalence,Asia,Both,95+,Rheumatic heart disease,Heart failure,Rate,2019,130.3845 ,179.0251 ,92.9311 
+Prevalence,Asia,Both,95+,Ischemic heart disease,Heart failure,Rate,2019,10146.3050 ,16948.5831 ,4970.1907 
+Prevalence,Asia,Both,95+,Hypertensive heart disease,Heart failure,Rate,2019,7345.0866 ,13859.5634 ,3357.5968 
+Prevalence,Asia,Both,95+,Non-rheumatic degenerative mitral valve disease,Heart failure,Rate,2019,1246.9741 ,1704.3258 ,854.8666 
+Prevalence,Asia,Both,95+,Other non-rheumatic valve diseases,Heart failure,Rate,2019,7.6681 ,14.2754 ,3.4129 
+Prevalence,Asia,Both,95+,G6PD deficiency,Heart failure,Rate,2019,0.1605 ,0.2957 ,0.0803 
+Prevalence,Asia,Both,95+,Other hemoglobinopathies and hemolytic anemias,Heart failure,Rate,2019,52.6085 ,97.3928 ,25.0972 
+Prevalence,Asia,Both,95+,Congenital heart anomalies,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,95+,"Endocrine, metabolic, blood, and immune disorders",Heart failure,Rate,2019,45.9518 ,83.4112 ,22.6818 
+Prevalence,Asia,Both,95+,Alcoholic cardiomyopathy,Heart failure,Rate,2019,14.8323 ,27.5593 ,6.8982 
+Prevalence,Asia,Both,95+,Myocarditis,Heart failure,Rate,2019,185.4525 ,347.8192 ,84.9412 
+Prevalence,Asia,Both,95+,Other cardiomyopathy,Heart failure,Rate,2019,828.5515 ,1494.9398 ,389.4129 
+Prevalence,Asia,Both,95+,Non-rheumatic calcific aortic valve disease,Heart failure,Rate,2019,460.2733 ,708.1567 ,265.1774 
+Prevalence,Asia,Both,95+,Endocarditis,Heart failure,Rate,2019,461.4792 ,851.7588 ,221.3476 
+Prevalence,Asia,Both,95+,Thalassemias,Heart failure,Rate,2019,0.0000 ,0.0000 ,0.0000 
+Prevalence,Asia,Both,95+,Chagas disease,Heart failure,Rate,2019,0.0536 ,0.0890 ,0.0284 
